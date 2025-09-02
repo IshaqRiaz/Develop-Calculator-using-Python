@@ -1,0 +1,31 @@
+Explanation of Your Calculator Project
+
+Your project is a Python-based calculator that allows a user to perform four basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+Here’s what it does step by step:
+
+ 1.Welcome Message – Displays a greeting to the user.
+
+ 2.Looping Mechanism – Runs continuously until the user decides to quit.
+
+ 3.User Input – Takes two numbers as input (or q to quit).
+
+ 4.Operation Selection – Asks the user which operation (+, -, *, /) they want to perform.
+
+ 5.Execution – Performs the chosen calculation:
+
+	Addition (+)
+
+	Subtraction (-)
+
+	Multiplication (*)
+
+	Division (/) with a special check to avoid division by zero.
+
+ 6.Error Handling – Displays an error message if the user inputs something invalid.
+
+ 7.Exit Option – The user can press q anytime to quit the program.
+
+ 8.Thank You Message – Prints a goodbye note at the end.
+
+This project demonstrates your ability to use loops, conditionals, input handling, type conversion, and error checking in Python.
